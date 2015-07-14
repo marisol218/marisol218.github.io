@@ -1,0 +1,34 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400);
+
+header{
+  background: #FFFFFF;
+  text-align: center;
+}
+
+body {
+  background: #CCCCCC;
+  font-family: 'Lato', Arial;
+}
+
+
+h1 {
+  color: blue;
+}
+
+.bubble {
+background-color: white;
+}
+
+section {
+  border: 1px solid #000;
+  border-width: 10px;
+  border-style: double;
+  border-color: blue;
+  background: #FFFFFF;
+  padding: 20px 40px 80px 100px;
+  margin: 20px;
+}
+
+p {
+  color: green;
+}
